@@ -16,6 +16,11 @@
 
 # Get the path to your data
 
+* In Google Colab, you can see your available files by clicking on the Files icon on the left hand side
+
+![image](https://github.com/user-attachments/assets/0804cb9d-bc96-41c2-9594-d8bc828a9217)
+
+
 * Get the path to your data by hovering over the three dots next to your data file and select copy path from the dropdown
 
 ![image](https://github.com/user-attachments/assets/aa3d6c12-c2f7-4c8f-ad4f-0d2089679527)
